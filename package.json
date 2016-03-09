@@ -1,0 +1,19 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriymelnyk/number-formatter.git"
+  },
+  "author": "Andriy Melnyk <andriy.melnyk.ua@gmail.com> (http://amelnyk.blogspot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andriymelnyk/number-formatter/issues"
+  },
+  "homepage": "https://github.com/andriymelnyk/number-formatter#readme"
+}
